@@ -170,12 +170,12 @@ footer{
 }
 
 .fa-heartbeat{
-	    color: #bb9e7d;
+	    color: #a67dbb;
 }
 
 ::selection {
 	color: #fff;
-   	background-color: #bb9e7d;
+   	background-color: #a67dbb;
 }
 
 .bottom{
@@ -294,8 +294,8 @@ footer{
 }
 
 .owl-theme .owl-controls .owl-nav [class*=owl-]:hover{
-	background-color: #bb9e7d;
-	border-color: #bb9e7d;
+	background-color: #a67dbb;
+	border-color: #a67dbb;
 }
 .owl-theme .owl-controls .owl-nav [class*=owl-]:hover i{
 	color: #fff;
